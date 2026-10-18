@@ -8,6 +8,20 @@ An unofficial rebuild of **ArtsyDy, fonnymunkey**'s original work, kept running 
 
 Loader: Fabric.
 
+## Versions
+
+| Minecraft | Loader |
+|---|---|
+| 26.3 | Fabric |
+| 26.2 | Fabric |
+
+## Requires
+
+- **Fabric API**
+- **Cardinal Components API**
+- **Cloth Config API**
+- **Trinkets**
+
 ## Source
 
 The original is not released under terms that let us republish its code, so there is none here and there will not be. This repository is notes and nothing more.
